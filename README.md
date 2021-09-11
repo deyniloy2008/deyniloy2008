@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deyniloy2008
 - 👀 I’m interested in ... browser
 - 🌱 I’m currently a in job...
-- 💞️ I’m looking to collaborate on ...github
+- 💞️ I’m looking to study and to work in...github
 - 📫 How to reach me ... online 
 
 <!---
